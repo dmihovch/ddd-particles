@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ddd_phys.dir/src/main.cpp.o -o ddd_phys  -lraylib 

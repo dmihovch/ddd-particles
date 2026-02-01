@@ -1,0 +1,3 @@
+/home/dan/projects/ddd-particles/build/CMakeFiles/ddd_phys.dir
+/home/dan/projects/ddd-particles/build/CMakeFiles/edit_cache.dir
+/home/dan/projects/ddd-particles/build/CMakeFiles/rebuild_cache.dir
